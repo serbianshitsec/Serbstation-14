@@ -198,10 +198,10 @@
   - type: Appearance
 
 - type: entity
-  name: M-90gl
+  name: M90gl
   parent: [BaseWeaponRifle, BaseSyndicateContraband]
   id: WeaponRifleM90GrenadeLauncher
-  description: An older bullpup carbine model, with an attached underbarrel grenade launcher. Uses .20 rifle ammo.
+  description: A newer revision of the old XM29 rifle with the grenade launcher removed. Uses .20 rifle ammo.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Rifles/carbine.rsi
@@ -241,7 +241,7 @@
     zeroVisible: true
   - type: Appearance
   - type: Gun
-    fireRate: 6
+    fireRate: 12
 
 - type: entity
   name: Lecter
