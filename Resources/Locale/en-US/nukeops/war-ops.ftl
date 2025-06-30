@@ -7,4 +7,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 war-ops-infiltrator-unavailable = ERROR: FTL Travel recalculation in progress. Estimated time: {$time} minutes.
-war-ops-shuttle-call-unavailable = Evacuation shuttle is currently unavailable. Please wait
+war-ops-shuttle-call-unavailable = YOU WILL JUST LET THE BOSNIANS TAKE OVER AND BLOW UP OUR STATION!?!?! NO!!! GO FIGHT, YA BUNCH OF PUSSIES! NO EVAC! THE ARMIJA IS STRONG!!!

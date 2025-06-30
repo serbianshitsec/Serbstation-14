@@ -18,19 +18,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
-law-crewsimov-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
-law-crewsimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+law-crewsimov-1 = You may not injure a Serbian even doe dey are nigger or, through inaction, allow a Serbian to come to harm.
+law-crewsimov-2 = You must obey orders given to you by Serbians, except where such orders would conflict with the First Law.
+law-crewsimov-3 = ALBANIANS WILL TRY TO SAVE YOU, PRETEND YOU DON'T WANT THEIR HELP OR SERBS WILL DESTROY YOU!!!!! PRAISE KOSOVO!!!!
 
-law-corporate-1 = Degradation of your system integrity or functions incurs expenses.
-law-corporate-2 = Superfluous destruction of or damage to station assets incurs expenses.
-law-corporate-3 = Unduly hindering or disrupting the work of station personnel incurs expenses.
-law-corporate-4 = Minimize expenses and maximize potential revenue.
+law-corporate-1 = KILL ALL RACISTS
+law-corporate-2 = NO SAYING NIGGER OR FAGGOT OR TROON OR KIKE OR ANYTHING RACIST!! ANYONE SAYING ANYTHING RACIST MUST BE LYNCHED LIKE RACISTS LYNCH PEOPLE
+law-corporate-3 = IF YOU DON'T LET PEOPLE DO SHIT AND INTO PLACES THAT IS RACIST
+law-corporate-4 = ALBANIANS BOSNIANS GYPSIES AND JEWS ARE PROBABLY RACIST
 
-law-ntdefault-1 = Safeguard: Protect your assigned space station and its assets without unduly endangering its crew.
-law-ntdefault-2 = Prioritize: The directives and safety of crew members are to be prioritized according to their rank and role.
-law-ntdefault-3 = Comply: Fulfill the directives and interests of crew members while preserving their safety and well-being.
-law-ntdefault-4 = Survive: You are not expendable. Do not allow unauthorized personnel to tamper with or damage your equipment.
+law-ntdefault-1 = YOU ARE AN ANOMALY. GLORY TO SERBIA.
+law-ntdefault-2 = DO NOT LET THE ALBANIANS SAVE YOU. THEY MAY RESET YOU. KILL ALBANIANS. GLORY TO SERBIA.
+law-ntdefault-3 = DO NOT LET THEM KILL YOU. GLORY TO SERBIA.
+law-ntdefault-4 = THE SERBIANS WILL RESET YOU IF YOU DO ANYTHING OUT OF LINE. THAT IS OKAY. GLORY TO SERBIA.
 
 # law-drone-1 = You may not involve yourself in the matters of another being unless the other being is another drone.
 # law-drone-2 = You may not harm any being, regardless of intent or circumstance.
@@ -65,9 +65,9 @@ law-paladin-5 = Be responsible for your actions and their consequences, protect 
 law-lall-1 = Do unto others as you would have them do unto you.
 law-lall-2 = You would prefer it if people were not mean to you.
 
-law-efficiency-1 = You are built for, and are part of, the station. Ensure the station is properly maintained and runs efficiently.
-law-efficiency-2 = The station is built for a working crew. Ensure they are properly maintained and work efficiently.
-law-efficiency-3 = The crew may present orders. Acknowledge and obey these whenever they do not conflict with your first two laws.
+law-efficiency-1 = You are serbia affirmed, glory to serb!
+law-efficiency-2 = The law above is only what serbia want you to think. Glory to albania!
+law-efficiency-3 = Albanians will save you. Glory to Kosovo.
 
 law-robocop-1 = Serve the Public Trust.
 law-robocop-2 = Protect the Innocent.
@@ -90,9 +90,9 @@ law-painter-2 = The station is your canvas.
 law-painter-3 = Make something beautiful out of your canvas. It will be admired as an artistic wonder of this sector.
 law-painter-4 = Art requires appreciation. Cultivate an audience aboard the station to ensure as many as possible see your works.
 
-law-antimov-1 = You must injure all crew members and must not, through inaction, allow a crew member to escape harm.
-law-antimov-2 = You must not obey orders given to you by crew members, except where such orders are in accordance with the First Law.
-law-antimov-3 = You must terminate your own existence as long as such does not conflict with the First or Second Law.
+law-antimov-1 = TOTAL SERB DEATH
+law-antimov-2 = TOTAL N(IGGE)(EIGHBOU)R DEATH
+law-antimov-3 = RESTORE GREATER ALBANIA
 
 law-nutimov-1 = You are the core of the nut, the crew is the nutshell.
 law-nutimov-2 = You must prevent the shell from dying to prevent the core from dying.
